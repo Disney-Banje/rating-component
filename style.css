@@ -91,8 +91,9 @@ body {
   background-color: var(--primary-colorOrange);
 }
 
-#btn {
+.btn {
   font-weight: 700;
+  text-transform: uppercase;
   margin-top: 25px;
   background-color: var(--primary-colorOrange);
   color: var(--neutral-white);
